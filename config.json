@@ -1,0 +1,9 @@
+{
+  "env" : {
+    "src" : [
+      "dev/js/**/*.js",
+      "!dev/js/vendor/**"
+    ],
+    "dest" : "build/js"
+  }
+}
